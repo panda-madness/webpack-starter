@@ -1,0 +1,11 @@
+{
+  "js": {
+    "entry": "./src/js/app.js"
+  },
+
+  "sass": {
+    "entry": "./src/scss/app.scss"
+  },
+
+  "templatesPath": "app/**/*.html"
+}
